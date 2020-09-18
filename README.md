@@ -5,7 +5,7 @@ This is a version of Blackbox Explorer that has been customized for analyzing bl
 ### Installation for normal users (non-developers):
 
 Please see the "Actions" tab on this Github repo to download the latest build snapshot for your operating system:  
-* [Click here to go to the Actions tab](https://github.com/heliflight3d/heliflight-blackbox/actions/new)
+* [Click here to go to the Actions tab](https://github.com/heliflight3d/heliflight-blackbox/actions)
 
 ### Devloper installation and use as a Chrome app:
 
